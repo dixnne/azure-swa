@@ -1,0 +1,32 @@
+#bootstrap-override .bg-color1{
+    background-color: #FF577F;
+}
+
+#bootstrap-override .bg-color2{
+    background-color: #FF884B;
+}
+
+#bootstrap-override .bg-color3{
+    background-color: #FFD384;
+}
+
+#bootstrap-override .bg-color4{
+    background-color: #FFF9B0;
+}
+
+#bootstrap-override.bg-color{
+    background-color: #FFF9B0;
+}
+
+#bootstrap-override .sofia-regular {
+    font-family: "Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#bootstrap-override img{
+    height: 80%;
+    object-fit: cover;
+    object-position: top;
+}
+  
